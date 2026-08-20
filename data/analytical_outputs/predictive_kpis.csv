@@ -1,0 +1,11 @@
+KPI,Value
+Logistic Regression PR-AUC,0.6736847981553121
+Logistic Regression ROC-AUC,0.9656552724948415
+Logistic Regression Precision,0.05642420122365738
+Logistic Regression Recall,0.8736842105263158
+Logistic Regression F1,0.10600255427841634
+Random Forest PR-AUC,0.8109063417930178
+Random Forest ROC-AUC,0.9427356231924182
+Random Forest Precision,0.9583333333333334
+Random Forest Recall,0.7263157894736842
+Random Forest F1,0.8263473053892215

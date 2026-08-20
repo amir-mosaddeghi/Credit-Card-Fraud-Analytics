@@ -1,0 +1,9 @@
+metric,value
+Fraud transactions,473.0
+Fraud transaction rate (%),0.1667101358352777
+Fraud amount total,58591.39
+Fraud amount mean,123.87186046511628
+Fraud amount median,9.82
+Fraud amount maximum,2125.87
+Fraud zero-amount transactions,25.0
+Fraud zero-amount percentage (%),5.2854122621564485

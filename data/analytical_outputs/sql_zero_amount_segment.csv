@@ -1,0 +1,3 @@
+amount_status,transactions,fraud_transactions,fraud_rate_pct
+Zero Amount,1808,25,1.3827
+Non-Zero Amount,281918,448,0.1589

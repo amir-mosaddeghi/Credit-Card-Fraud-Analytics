@@ -1,0 +1,11 @@
+KPI,Value
+Total transactions,283726.0
+Fraud transactions,473.0
+Fraud rate (%),0.1667101358352777
+Total transaction amount,25102001.680000003
+Fraud transaction amount,58591.39
+Fraud amount share (%),0.2334132183836265
+Median normal amount,22.0
+Median fraud amount,9.82
+Mean normal amount,88.41357475472456
+Mean fraud amount,123.87186046511628

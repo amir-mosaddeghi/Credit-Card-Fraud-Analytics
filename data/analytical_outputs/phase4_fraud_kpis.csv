@@ -1,0 +1,10 @@
+KPI,Value
+Fraud transaction rate (%),0.1667101358352777
+Fraud amount share (%),0.2334132183836265
+Average fraud amount,123.87186046511628
+Median fraud amount,9.82
+Maximum fraud amount,2125.87
+Top 10% fraud amount concentration (%),62.1710971526704
+Zero-amount fraud share (%),5.2854122621564485
+Amount Mann-Whitney p-value,2.68609023836721e-05
+Amount rank-biserial effect size,-0.11154320394091988

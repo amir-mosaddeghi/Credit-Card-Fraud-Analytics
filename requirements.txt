@@ -1,0 +1,10 @@
+Python
+Pandas
+NumPy
+Matplotlib
+Seaborn
+SciPy
+Scikit-learn
+SQLite / SQL
+Power BI
+Jupyter Notebook

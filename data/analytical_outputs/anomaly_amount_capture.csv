@@ -1,0 +1,4 @@
+segment,transactions_reviewed,captured_fraud_amount,fraud_amount_capture_pct
+Top 1%,2838,36562.5,62.40251340683333
+Top 5%,14187,50502.89,86.19507064092524
+Top 10%,28373,54652.380000000005,93.27715215494973
