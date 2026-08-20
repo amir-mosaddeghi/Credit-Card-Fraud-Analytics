@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Credit Card Fraud Analytics
 
 ## Project Overview
@@ -219,3 +220,7 @@ This project demonstrates practical Data Analytics skills across:
 - KPI development
 - Power BI dashboarding
 - Business insight generation
+=======
+# credit-card-fraud-analytics
+Credit Card Fraud Analytics project focused on data cleaning, EDA, SQL analysis, anomaly detection, predictive modeling, and Power BI dashboards to uncover fraud patterns, quantify risk, and support data-driven fraud detection decisions.
+>>>>>>> dfcc26cc21f8ea11912d48ae9d0d72136ea04ed4
