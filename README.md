@@ -130,6 +130,7 @@ Credit-Card-Fraud-Analytics/
 The Power BI dashboard contains three pages:
 
 ### 1. Executive Overview
+![Executive Overview](reports/images/executive_overview.png)
 
 * Transaction and fraud KPIs
 * Fraud rate
@@ -139,6 +140,7 @@ The Power BI dashboard contains three pages:
 * Fraud transactions by amount band
 
 ### 2. Fraud & Risk Analysis
+![Fraud & Risk Analysis](reports/images/fraud_risk_analysis.png)
 
 * Fraud amount distribution
 * Fraud vs. normal transaction patterns
@@ -148,6 +150,7 @@ The Power BI dashboard contains three pages:
 * High-value transaction analysis
 
 ### 3. Model Performance
+![Model Performance](reports/images/model_performance.png)
 
 * Predictive model comparison
 * F1 score
