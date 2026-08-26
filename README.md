@@ -91,12 +91,12 @@ Business Insights
 ## Repository Structure
 
 ```text
-credit-card-fraud-analytics/
+Credit-Card-Fraud-Analytics/
 │
 ├── data/
 │   ├── creditcard.csv
 │   ├── creditcard_clean.csv
-│   └── analytical output CSV files
+│   └── analytical_outputs
 │
 ├── notebooks/
 │   ├── 01_data_understanding.ipynb
